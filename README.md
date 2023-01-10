@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @7-O-C
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @gaurav
+- 👀 I’m interested in internet
 - 🌱 I’m currently learning ..web Development.
 - 💞️ I’m looking to collaborate on ...web developmet , c language
 - 📫 How to reach me ...gtsv1876@gmail.com
