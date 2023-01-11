@@ -5,6 +5,6 @@
 - 📫 How to reach me ...gtsv1876@gmail.com
 
 <!---
-7-O-C/7-O-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gaurav sharma /gaurav sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
